@@ -128,6 +128,7 @@ using linear ECG relationships.
 ---
 
 # Model Architecture
+<img width="1536" height="1024" alt="ChatGPT Image Jul 14, 2026, 08_15_58 AM" src="https://github.com/user-attachments/assets/b95ffb01-e516-442f-8eb0-a1d823a9e3e5" />
 
 The proposed SSSD-ECG architecture combines
 
