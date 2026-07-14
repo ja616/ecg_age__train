@@ -250,6 +250,9 @@ The repository provides side by side visualization between
 
 - Real ECG
 - Generated ECG
+- <img width="939" height="498" alt="Screenshot_2026-07-14-08-24-21-01_254de13a4bc8758c9908fff1f73e3725 (1)" src="https://github.com/user-attachments/assets/7f9bb8bc-1fcd-435a-900e-3f1cf2e590a7" />
+
+
 
 using age matched samples from PTB-XL.
 
